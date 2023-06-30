@@ -1,0 +1,756 @@
+{
+  "data": [
+    {
+      "orderId": "Order1",
+      "productItemList": [
+        {
+          "product": {
+            "productId": "Product1",
+            "image": [
+              "https://ocopvietnam.com.vn/upload/images/dua-hau-ham-ninh-quang-binh-ngot-ngao-nhu-tam-long-nguoi-mien-trung-5-1652858679.jpg",
+              "https://ocopvietnam.com.vn/upload/images/duahauhamninh5.jpg",
+              "https://baoquangbinh.vn/dataimages/202305/original/images1539032652_1__17__copy.jpg"
+            ],
+            "productName": "Dưa hấu Hàm Ninh",
+            "dates": [
+              {
+                "status": "cultivated",
+                "time": "2023-06-06 10:02:47.677+07:00",
+                "actor": {
+                  "email": "supplier@gmail.com",
+                  "userName": "Supplier",
+                  "fullName": "Supplier",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/supplier.jpg",
+                  "phoneNumber": "+84886755772",
+                  "address": "120 Hoàng Văn Thái, Đà Nẵng",
+                  "role": "supplier",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+                }
+              },
+              {
+                "status": "harvested",
+                "time": "2023-06-07 10:02:47.677+07:00",
+                "actor": {
+                  "email": "supplier@gmail.com",
+                  "userName": "Supplier",
+                  "fullName": "Supplier",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/supplier.jpg",
+                  "phoneNumber": "+84886755772",
+                  "address": "120 Hoàng Văn Thái, Đà Nẵng",
+                  "role": "supplier",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+                }
+              },
+              {
+                "status": "imported",
+                "time": "2023-06-08 10:02:47.677+07:00",
+                "actor": {
+                  "email": "manufacturer@gmail.com",
+                  "userName": "manufacturer",
+                  "fullName": "manufacturer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+                  "phoneNumber": "+84886755672",
+                  "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+                  "role": "manufacturer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+                }
+              },
+              {
+                "status": "manufacturered",
+                "time": "2023-06-09 10:02:47.677+07:00",
+                "actor": {
+                  "email": "manufacturer@gmail.com",
+                  "userName": "manufacturer",
+                  "fullName": "manufacturer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+                  "phoneNumber": "+84886755672",
+                  "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+                  "role": "manufacturer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+                }
+              },
+              {
+                "status": "exported",
+                "time": "2023-06-10 10:02:47.677+07:00",
+                "actor": {
+                  "email": "manufacturer@gmail.com",
+                  "userName": "manufacturer",
+                  "fullName": "manufacturer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+                  "phoneNumber": "+84886755672",
+                  "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+                  "role": "manufacturer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+                }
+              },
+              {
+                "status": "distributed",
+                "time": "2023-06-11 10:02:47.677+07:00",
+                "actor": {
+                  "email": "distributor@gmail.com",
+                  "userName": "distributor",
+                  "fullName": "distributor",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/distributor.jpg",
+                  "phoneNumber": "+84886700072",
+                  "address": "30 Ông Ích Khiêm, Đà Nẵng",
+                  "role": "distributor",
+                  "userId": "5d131a98-4649-4e86-8bce-de320ol4b5ab"
+                }
+              },
+              {
+                "status": "selling",
+                "time": "2023-06-12 10:02:47.677 +0000 UTC",
+                "actor": {
+                  "email": "retailer@gmail.com",
+                  "userName": "retailer",
+                  "fullName": "retailer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/retailer.jpg",
+                  "phoneNumber": "+84886000772",
+                  "address": "20 Tố Hữu, Đà Nẵng",
+                  "role": "retailer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+                }
+              },
+              {
+                "status": "sold",
+                "time": "2023-06-13 10:02:47.677 +0000 UTC",
+                "actor": {
+                  "email": "retailer@gmail.com",
+                  "userName": "retailer",
+                  "fullName": "retailer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/retailer.jpg",
+                  "phoneNumber": "+84886000772",
+                  "address": "20 Tố Hữu, Đà Nẵng",
+                  "role": "retailer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+                }
+              }
+            ],
+            "expireTime": "2024-06-06 10:02:47.677+07:00",
+            "price": "100000",
+            "amount": "100",
+            "unit": "kg",
+            "status": "EXPORTED",
+            "description": "Dưa hấu Hàm Ninh, Quảng Bình ngọt ngào như tấm lòng người miền Trung",
+            "certificateUrl": "https://www.sanela.eu/files/certificates/dfd-dfd.jpg",
+            "supplier": {
+              "email": "supplier@gmail.com",
+              "userName": "Supplier",
+              "fullName": "Supplier",
+              "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/supplier.jpg",
+              "phoneNumber": "+84886755772",
+              "address": "120 Hoàng Văn Thái, Đà Nẵng",
+              "role": "supplier",
+              "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+            },
+            "qrCode": "https://firebasestorage.googleapis.com/v0/b/supply-chain-9ea64.appspot.com/o/qrcode%2Fproducts%2FProduct1.jpg?alt=media&token=05513449-f50d-40ae-9a87-a4cebbc8333f&_gl=1*13nupkk*_ga*MTcyMjAyODk5NS4xNjgxNDU1MTUy*_ga_CW55HF8NVT*MTY4NjEwNjQwNy4xMS4xLjE2ODYxMDY2OTQuMC4wLjA."
+          },
+          "quantity": "20"
+        },
+        {
+          "product": {
+            "productId": "Product2",
+            "image": [
+              "https://ocopvietnam.com.vn/upload/images/b%C6%B0%E1%BB%9Fi%20di%E1%BB%85n.jpg",
+              "https://ocopvietnam.com.vn/upload/images/164397944076420230426132613.jpg",
+              "https://ocopvietnam.com.vn/upload/images/hoa-xa-620230403114643.jpg"
+            ],
+            "productName": "Dưa vàng Kim Vương",
+            "dates": [
+              {
+                "status": "cultivated",
+                "time": "2023-06-06 10:02:47.677+07:00",
+                "actor": {
+                  "email": "supplier@gmail.com",
+                  "userName": "Supplier",
+                  "fullName": "Supplier",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/supplier.jpg",
+                  "phoneNumber": "+84886755772",
+                  "address": "120 Hoàng Văn Thái, Đà Nẵng",
+                  "role": "supplier",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+                }
+              },
+              {
+                "status": "harvested",
+                "time": "2023-06-07 10:02:47.677+07:00",
+                "actor": {
+                  "email": "supplier@gmail.com",
+                  "userName": "Supplier",
+                  "fullName": "Supplier",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/supplier.jpg",
+                  "phoneNumber": "+84886755772",
+                  "address": "120 Hoàng Văn Thái, Đà Nẵng",
+                  "role": "supplier",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+                }
+              },
+              {
+                "status": "imported",
+                "time": "2023-06-08 10:02:47.677+07:00",
+                "actor": {
+                  "email": "manufacturer@gmail.com",
+                  "userName": "manufacturer",
+                  "fullName": "manufacturer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+                  "phoneNumber": "+84886755672",
+                  "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+                  "role": "manufacturer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+                }
+              },
+              {
+                "status": "manufacturered",
+                "time": "2023-06-09 10:02:47.677+07:00",
+                "actor": {
+                  "email": "manufacturer@gmail.com",
+                  "userName": "manufacturer",
+                  "fullName": "manufacturer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+                  "phoneNumber": "+84886755672",
+                  "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+                  "role": "manufacturer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+                }
+              },
+              {
+                "status": "exported",
+                "time": "2023-06-10 10:02:47.677+07:00",
+                "actor": {
+                  "email": "manufacturer@gmail.com",
+                  "userName": "manufacturer",
+                  "fullName": "manufacturer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+                  "phoneNumber": "+84886755672",
+                  "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+                  "role": "manufacturer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+                }
+              },
+              {
+                "status": "distributed",
+                "time": "2023-06-11 10:02:47.677 +0000 UTC",
+                "actor": {
+                  "email": "distributor@gmail.com",
+                  "userName": "distributor",
+                  "fullName": "distributor",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/distributor.jpg",
+                  "phoneNumber": "+84886700072",
+                  "address": "30 Ông Ích Khiêm, Đà Nẵng",
+                  "role": "distributor",
+                  "userId": "5d131a98-4649-4e86-8bce-de320ol4b5ab"
+                }
+              },
+              {
+                "status": "selling",
+                "time": "2023-06-12 10:02:47.677 +0000 UTC",
+                "actor": {
+                  "email": "retailer@gmail.com",
+                  "userName": "retailer",
+                  "fullName": "retailer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/retailer.jpg",
+                  "phoneNumber": "+84886000772",
+                  "address": "20 Tố Hữu, Đà Nẵng",
+                  "role": "retailer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+                }
+              },
+              {
+                "status": "sold",
+                "time": "2023-06-13 10:02:47.677 +0000 UTC",
+                "actor": {
+                  "email": "retailer@gmail.com",
+                  "userName": "retailer",
+                  "fullName": "retailer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/retailer.jpg",
+                  "phoneNumber": "+84886000772",
+                  "address": "20 Tố Hữu, Đà Nẵng",
+                  "role": "retailer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+                }
+              }
+            ],
+            "expireTime": "2024-02-06 10:02:47.677+07:00",
+            "price": "100000",
+            "amount": "20",
+            "unit": "kg",
+            "status": "EXPORTED",
+            "description": "Dưa vàng Kim Vương được chứng nhận OCOP của thành phố Hà Nội",
+            "certificateUrl": "https://www.silverydragonoverseas.com/uploads/5_03_1.png",
+            "supplier": {
+              "email": "supplier@gmail.com",
+              "userName": "Supplier",
+              "fullName": "Supplier",
+              "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/supplier.jpg",
+              "phoneNumber": "+84886755772",
+              "address": "120 Hoàng Văn Thái, Đà Nẵng",
+              "role": "supplier",
+              "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+            },
+            "qrCode": "https://firebasestorage.googleapis.com/v0/b/supply-chain-9ea64.appspot.com/o/qrcode%2Fproducts%2FProduct2.jpg?alt=media&token=6b7f89c7-32b7-40fc-970f-36071ef938b5&_gl=1*h27754*_ga*MTcyMjAyODk5NS4xNjgxNDU1MTUy*_ga_CW55HF8NVT*MTY4NjEwNjQwNy4xMS4xLjE2ODYxMDY4MjkuMC4wLjA."
+          },
+          "quantity": "10"
+        }
+      ],
+      "deliveryStatuses": [
+        {
+          "deliveryDate": "2023-06-10 10:02:47.677+07:00",
+          "status": "PENDING",
+          "address": "20 Tố Hữu, Đà Nẵng",
+          "actor": {
+            "email": "retailer@gmail.com",
+            "userName": "retailer",
+            "fullName": "retailer",
+            "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/retailer.jpg",
+            "phoneNumber": "+84886000772",
+            "address": "20 Tố Hữu, Đà Nẵng",
+            "role": "retailer",
+            "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+          }
+        },
+        {
+          "deliveryDate": "2023-06-11 10:02:47.677+07:00",
+          "status": "SHIPPING",
+          "address": "30 Ông Ích Khiêm, Đà Nẵng",
+          "actor": {
+            "email": "distributor@gmail.com",
+            "userName": "distributor",
+            "fullName": "distributor",
+            "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/distributor.jpg",
+            "phoneNumber": "+84886700072",
+            "address": "30 Ông Ích Khiêm, Đà Nẵng",
+            "role": "distributor",
+            "userId": "5d131a98-4649-4e86-8bce-de320ol4b5ab"
+          }
+        },
+        {
+          "deliveryDate": "2023-06-12 10:02:47.677+07:00",
+          "status": "SHIPPED",
+          "address": "20 Tố Hữu, Đà Nẵng",
+          "actor": {
+            "email": "retailer@gmail.com",
+            "userName": "retailer",
+            "fullName": "retailer",
+            "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/retailer.jpg",
+            "phoneNumber": "+84886000772",
+            "address": "20 Tố Hữu, Đà Nẵng",
+            "role": "retailer",
+            "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+          }
+        }
+      ],
+      "signature": {
+        "distributorSignature": "https://firebasestorage.googleapis.com/v0/b/supply-chain-9ea64.appspot.com/o/signatureimg%2F1685687382856?alt=media&token=23d8bfaa-360e-4547-830f-ebd9112cfb4d&_gl=1*1sveu0*_ga*MTcyMjAyODk5NS4xNjgxNDU1MTUy*_ga_CW55HF8NVT*MTY4NjEwNjQwNy4xMS4xLjE2ODYxMDY0OTIuMC4wLjA.",
+        "retailerSignature": "https://firebasestorage.googleapis.com/v0/b/supply-chain-9ea64.appspot.com/o/signatureimg%2F1685607917178?alt=media&token=21604bc4-e11b-43a6-ae0e-cd3518646888&_gl=1*dav4lf*_ga*MTcyMjAyODk5NS4xNjgxNDU1MTUy*_ga_CW55HF8NVT*MTY4NjEwNjQwNy4xMS4xLjE2ODYxMDY0MjcuMC4wLjA."
+      },
+      "status": "SHIPPED",
+      "manufacturer": {
+        "email": "manufacturer@gmail.com",
+        "userName": "manufacturer",
+        "fullName": "manufacturer",
+        "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+        "phoneNumber": "+84886755672",
+        "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+        "role": "manufacturer",
+        "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+      },
+      "distributor": {
+        "email": "distributor@gmail.com",
+        "userName": "distributor",
+        "fullName": "distributor",
+        "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/distributor.jpg",
+        "phoneNumber": "+84886700072",
+        "address": "30 Ông Ích Khiêm, Đà Nẵng",
+        "role": "distributor",
+        "userId": "5d131a98-4649-4e86-8bce-de320ol4b5ab"
+      },
+      "retailer": {
+        "email": "retailer@gmail.com",
+        "userName": "retailer",
+        "fullName": "retailer",
+        "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/retailer.jpg",
+        "phoneNumber": "+84886000772",
+        "address": "20 Tố Hữu, Đà Nẵng",
+        "role": "retailer",
+        "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+      },
+      "qrCode": "https://storage.googleapis.com/supply-chain-9ea64.appspot.com/qrcode/orders/Order1.jpg?GoogleAccessId=firebase-adminsdk-hz2j8%40supply-chain-9ea64.iam.gserviceaccount.com&Expires=1717582185&Signature=Bn2LBQEm20eo8FaVvy2IgUYT6E5D9gyQxLznEt6wcDQiY4jHugwLEsa3%2BHfSlVK7N3fJcmP2Q88bIQcDwuxhzyRCBFnF0dqhHh0pESbRpcbOhTjZyIAcTc1n9%2FJoFuu4t0P9m7gdpf7Rfwp2lqZlgH8%2BaXxNMLgP59RKHH9ZVhIJjo3XUXvTWXrG2EOQP5t11OVrAQ8074gYRfKfM%2Fqr%2FkmJnQcg7cp03xUfLJYqE1DMHpAzX5pdLiuVkdqZJkwdHuf4NkQB%2BkWi56aGc7qF%2BuPgho3Ex%2B3E846qNmyN2ndMVFtbDPSVq3P5DHRBxH7t6vvrS%2BYvwrx16CG6e4MPxA%3D%3D",
+      "createDate": "2023-06-10 10:02:47.677+07:00",
+      "updateDate": "2023-06-11 10:02:47.677+07:00",
+      "finishDate": "2023-06-12 10:02:47.677+07:00"
+    },
+    {
+      "orderId": "Order2",
+      "productItemList": [
+        {
+          "product": {
+            "productId": "Product1",
+            "image": [
+              "https://ocopvietnam.com.vn/upload/images/dua-hau-ham-ninh-quang-binh-ngot-ngao-nhu-tam-long-nguoi-mien-trung-5-1652858679.jpg",
+              "https://ocopvietnam.com.vn/upload/images/duahauhamninh5.jpg",
+              "https://baoquangbinh.vn/dataimages/202305/original/images1539032652_1__17__copy.jpg"
+            ],
+            "productName": "Dưa hấu Hàm Ninh",
+            "dates": [
+              {
+                "status": "cultivated",
+                "time": "2023-06-06 10:02:47.677+07:00",
+                "actor": {
+                  "email": "supplier@gmail.com",
+                  "userName": "Supplier",
+                  "fullName": "Supplier",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/supplier.jpg",
+                  "phoneNumber": "+84886755772",
+                  "address": "120 Hoàng Văn Thái, Đà Nẵng",
+                  "role": "supplier",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+                }
+              },
+              {
+                "status": "harvested",
+                "time": "2023-06-07 10:02:47.677+07:00",
+                "actor": {
+                  "email": "supplier@gmail.com",
+                  "userName": "Supplier",
+                  "fullName": "Supplier",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/supplier.jpg",
+                  "phoneNumber": "+84886755772",
+                  "address": "120 Hoàng Văn Thái, Đà Nẵng",
+                  "role": "supplier",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+                }
+              },
+              {
+                "status": "imported",
+                "time": "2023-06-08 10:02:47.677+07:00",
+                "actor": {
+                  "email": "manufacturer@gmail.com",
+                  "userName": "manufacturer",
+                  "fullName": "manufacturer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+                  "phoneNumber": "+84886755672",
+                  "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+                  "role": "manufacturer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+                }
+              },
+              {
+                "status": "manufacturered",
+                "time": "2023-06-09 10:02:47.677+07:00",
+                "actor": {
+                  "email": "manufacturer@gmail.com",
+                  "userName": "manufacturer",
+                  "fullName": "manufacturer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+                  "phoneNumber": "+84886755672",
+                  "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+                  "role": "manufacturer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+                }
+              },
+              {
+                "status": "exported",
+                "time": "2023-06-10 10:02:47.677+07:00",
+                "actor": {
+                  "email": "manufacturer@gmail.com",
+                  "userName": "manufacturer",
+                  "fullName": "manufacturer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+                  "phoneNumber": "+84886755672",
+                  "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+                  "role": "manufacturer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+                }
+              },
+              {
+                "status": "distributed",
+                "time": null,
+                "actor": null
+              },
+              {
+                "status": "selling",
+                "time": null,
+                "actor": null
+              },
+              {
+                "status": "sold",
+                "time": null,
+                "actor": null
+              }
+            ],
+            "expireTime": "2024-06-06 10:02:47.677+07:00",
+            "price": "100000",
+            "amount": "100",
+            "unit": "kg",
+            "status": "EXPORTED",
+            "description": "Dưa hấu Hàm Ninh, Quảng Bình ngọt ngào như tấm lòng người miền Trung",
+            "certificateUrl": "https://www.sanela.eu/files/certificates/dfd-dfd.jpg",
+            "supplier": {
+              "email": "supplier@gmail.com",
+              "userName": "Supplier",
+              "fullName": "Supplier",
+              "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/supplier.jpg",
+              "phoneNumber": "+84886755772",
+              "address": "120 Hoàng Văn Thái, Đà Nẵng",
+              "role": "supplier",
+              "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+            },
+            "qrCode": "https://firebasestorage.googleapis.com/v0/b/supply-chain-9ea64.appspot.com/o/qrcode%2Fproducts%2FProduct1.jpg?alt=media&token=05513449-f50d-40ae-9a87-a4cebbc8333f&_gl=1*13nupkk*_ga*MTcyMjAyODk5NS4xNjgxNDU1MTUy*_ga_CW55HF8NVT*MTY4NjEwNjQwNy4xMS4xLjE2ODYxMDY2OTQuMC4wLjA."
+          },
+          "quantity": "30"
+        }
+      ],
+      "deliveryStatuses": [
+        {
+          "deliveryDate": "2023-06-10 10:02:47.677+07:00",
+          "status": "PENDING",
+          "address": "20 Tố Hữu, Đà Nẵng",
+          "actor": {
+            "email": "retailer@gmail.com",
+            "userName": "retailer",
+            "fullName": "retailer",
+            "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/retailer.jpg",
+            "phoneNumber": "+84886000772",
+            "address": "20 Tố Hữu, Đà Nẵng",
+            "role": "retailer",
+            "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+          }
+        },
+        {
+          "deliveryDate": "2023-06-11 10:02:47.677+07:00",
+          "status": "SHIPPING",
+          "address": "30 Ông Ích Khiêm, Đà Nẵng",
+          "actor": {
+            "email": "distributor@gmail.com",
+            "userName": "distributor",
+            "fullName": "distributor",
+            "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/distributor.jpg",
+            "phoneNumber": "+84886700072",
+            "address": "30 Ông Ích Khiêm, Đà Nẵng",
+            "role": "distributor",
+            "userId": "5d131a98-4649-4e86-8bce-de320ol4b5ab"
+          }
+        }
+      ],
+      "signature": {
+        "distributorSignature": "https://firebasestorage.googleapis.com/v0/b/supply-chain-9ea64.appspot.com/o/signatureimg%2F1685607917178?alt=media&token=21604bc4-e11b-43a6-ae0e-cd3518646888&_gl=1*dav4lf*_ga*MTcyMjAyODk5NS4xNjgxNDU1MTUy*_ga_CW55HF8NVT*MTY4NjEwNjQwNy4xMS4xLjE2ODYxMDY0MjcuMC4wLjA.",
+        "retailerSignature": "https://firebasestorage.googleapis.com/v0/b/supply-chain-9ea64.appspot.com/o/signatureimg%2F1685687382856?alt=media&token=23d8bfaa-360e-4547-830f-ebd9112cfb4d&_gl=1*1sveu0*_ga*MTcyMjAyODk5NS4xNjgxNDU1MTUy*_ga_CW55HF8NVT*MTY4NjEwNjQwNy4xMS4xLjE2ODYxMDY0OTIuMC4wLjA."
+      },
+      "status": "SHIPPING",
+      "manufacturer": {
+        "email": "manufacturer@gmail.com",
+        "userName": "manufacturer",
+        "fullName": "manufacturer",
+        "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+        "phoneNumber": "+84886755672",
+        "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+        "role": "manufacturer",
+        "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+      },
+      "distributor": {
+        "email": "distributor@gmail.com",
+        "userName": "distributor",
+        "fullName": "distributor",
+        "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/distributor.jpg",
+        "phoneNumber": "+84886700072",
+        "address": "30 Ông Ích Khiêm, Đà Nẵng",
+        "role": "distributor",
+        "userId": "5d131a98-4649-4e86-8bce-de320ol4b5ab"
+      },
+      "retailer": {
+        "email": "retailer@gmail.com",
+        "userName": "retailer",
+        "fullName": "retailer",
+        "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/retailer.jpg",
+        "phoneNumber": "+84886000772",
+        "address": "20 Tố Hữu, Đà Nẵng",
+        "role": "retailer",
+        "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+      },
+      "qrCode": "https://storage.googleapis.com/supply-chain-9ea64.appspot.com/qrcode/orders/Order1.jpg?GoogleAccessId=firebase-adminsdk-hz2j8%40supply-chain-9ea64.iam.gserviceaccount.com&Expires=1717582301&Signature=ZnvubFASADI53u5OYVXizpDUIOzNG5ndsZtHjATceVj3TxztZ%2BNt8rwSPqeI6QTMGkZqwUZMdKEm%2B8Dk0WmFarUNXSfFCqfXO1uXpigT0XDXEUoXMMNXYxYyUzqv5OfqBlV5e4Z9s0P%2Fx9TebDc0CD8fTz8WZ683dEXJLnAazKpov3A5NntPHqYYTz%2BoxPbKr5y%2B0Q4%2B%2FWK9FAltkhVx0vuZz8uum0IrwsRXnDXzMn37hEy%2F6JJ9EHtJuphWfqo4qVp9OhBrs8x1nW7w4Gd0age4aAnLZ1A9OSCS%2BM3jvMVP8WSrcmFBjLQTw%2FgXBMLgApX3NJcjeqZOS07MHVMNOw%3D%3D",
+      "createDate": "2023-06-06 10:11:42.548+07:00",
+      "updateDate": "2023-06-11 10:02:47.677+07:00",
+      "finishDate": ""
+    },
+    {
+      "orderId": "Order3",
+      "productItemList": [
+        {
+          "product": {
+            "productId": "Product1",
+            "image": [
+              "https://ocopvietnam.com.vn/upload/images/dua-hau-ham-ninh-quang-binh-ngot-ngao-nhu-tam-long-nguoi-mien-trung-5-1652858679.jpg",
+              "https://ocopvietnam.com.vn/upload/images/duahauhamninh5.jpg",
+              "https://baoquangbinh.vn/dataimages/202305/original/images1539032652_1__17__copy.jpg"
+            ],
+            "productName": "Dưa hấu Hàm Ninh",
+            "dates": [
+              {
+                "status": "cultivated",
+                "time": "2023-06-06 10:02:47.677+07:00",
+                "actor": {
+                  "email": "supplier@gmail.com",
+                  "userName": "Supplier",
+                  "fullName": "Supplier",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/supplier.jpg",
+                  "phoneNumber": "+84886755772",
+                  "address": "120 Hoàng Văn Thái, Đà Nẵng",
+                  "role": "supplier",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+                }
+              },
+              {
+                "status": "harvested",
+                "time": "2023-06-07 10:02:47.677+07:00",
+                "actor": {
+                  "email": "supplier@gmail.com",
+                  "userName": "Supplier",
+                  "fullName": "Supplier",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/supplier.jpg",
+                  "phoneNumber": "+84886755772",
+                  "address": "120 Hoàng Văn Thái, Đà Nẵng",
+                  "role": "supplier",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+                }
+              },
+              {
+                "status": "imported",
+                "time": "2023-06-08 10:02:47.677+07:00",
+                "actor": {
+                  "email": "manufacturer@gmail.com",
+                  "userName": "manufacturer",
+                  "fullName": "manufacturer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+                  "phoneNumber": "+84886755672",
+                  "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+                  "role": "manufacturer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+                }
+              },
+              {
+                "status": "manufacturered",
+                "time": "2023-06-09 10:02:47.677+07:00",
+                "actor": {
+                  "email": "manufacturer@gmail.com",
+                  "userName": "manufacturer",
+                  "fullName": "manufacturer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+                  "phoneNumber": "+84886755672",
+                  "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+                  "role": "manufacturer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+                }
+              },
+              {
+                "status": "exported",
+                "time": "2023-06-10 10:02:47.677+07:00",
+                "actor": {
+                  "email": "manufacturer@gmail.com",
+                  "userName": "manufacturer",
+                  "fullName": "manufacturer",
+                  "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+                  "phoneNumber": "+84886755672",
+                  "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+                  "role": "manufacturer",
+                  "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+                }
+              },
+              {
+                "status": "distributed",
+                "time": null,
+                "actor": null
+              },
+              {
+                "status": "selling",
+                "time": null,
+                "actor": null
+              },
+              {
+                "status": "sold",
+                "time": null,
+                "actor": null
+              }
+            ],
+            "expireTime": "2024-06-06 10:02:47.677+07:00",
+            "price": "100000",
+            "amount": "100",
+            "unit": "kg",
+            "status": "EXPORTED",
+            "description": "Dưa hấu Hàm Ninh, Quảng Bình ngọt ngào như tấm lòng người miền Trung",
+            "certificateUrl": "https://www.sanela.eu/files/certificates/dfd-dfd.jpg",
+            "supplier": {
+              "email": "supplier@gmail.com",
+              "userName": "Supplier",
+              "fullName": "Supplier",
+              "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/supplier.jpg",
+              "phoneNumber": "+84886755772",
+              "address": "120 Hoàng Văn Thái, Đà Nẵng",
+              "role": "supplier",
+              "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+            },
+            "qrCode": "https://firebasestorage.googleapis.com/v0/b/supply-chain-9ea64.appspot.com/o/qrcode%2Fproducts%2FProduct1.jpg?alt=media&token=05513449-f50d-40ae-9a87-a4cebbc8333f&_gl=1*13nupkk*_ga*MTcyMjAyODk5NS4xNjgxNDU1MTUy*_ga_CW55HF8NVT*MTY4NjEwNjQwNy4xMS4xLjE2ODYxMDY2OTQuMC4wLjA."
+          },
+          "quantity": "40"
+        }
+      ],
+      "deliveryStatuses": [
+        {
+          "deliveryDate": "2023-06-10 10:02:47.677+07:00",
+          "status": "PENDING",
+          "address": "20 Tố Hữu, Đà Nẵng",
+          "actor": {
+            "email": "retailer@gmail.com",
+            "userName": "retailer",
+            "fullName": "retailer",
+            "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/retailer.jpg",
+            "phoneNumber": "+84886000772",
+            "address": "20 Tố Hữu, Đà Nẵng",
+            "role": "retailer",
+            "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+          }
+        }
+      ],
+      "signature": {
+        "distributorSignature": "https://firebasestorage.googleapis.com/v0/b/supply-chain-9ea64.appspot.com/o/signatureimg%2F1685607917178?alt=media&token=21604bc4-e11b-43a6-ae0e-cd3518646888&_gl=1*dav4lf*_ga*MTcyMjAyODk5NS4xNjgxNDU1MTUy*_ga_CW55HF8NVT*MTY4NjEwNjQwNy4xMS4xLjE2ODYxMDY0MjcuMC4wLjA.",
+        "retailerSignature": "https://firebasestorage.googleapis.com/v0/b/supply-chain-9ea64.appspot.com/o/signatureimg%2F1685687382856?alt=media&token=23d8bfaa-360e-4547-830f-ebd9112cfb4d&_gl=1*1sveu0*_ga*MTcyMjAyODk5NS4xNjgxNDU1MTUy*_ga_CW55HF8NVT*MTY4NjEwNjQwNy4xMS4xLjE2ODYxMDY0OTIuMC4wLjA."
+      },
+      "status": "PENDING",
+      "manufacturer": {
+        "email": "manufacturer@gmail.com",
+        "userName": "manufacturer",
+        "fullName": "manufacturer",
+        "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/manufacturer.jpg",
+        "phoneNumber": "+84886755672",
+        "address": "36 Nguyễn Văn Linh, Đà Nẵng",
+        "role": "manufacturer",
+        "userId": "5d131a98-4649-4e86-8bce-de325544llll"
+      },
+      "distributor": {
+        "email": "distributor@gmail.com",
+        "userName": "distributor",
+        "fullName": "distributor",
+        "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/distributor.jpg",
+        "phoneNumber": "+84886700072",
+        "address": "30 Ông Ích Khiêm, Đà Nẵng",
+        "role": "distributor",
+        "userId": "5d131a98-4649-4e86-8bce-de320ol4b5ab"
+      },
+      "retailer": {
+        "email": "retailer@gmail.com",
+        "userName": "retailer",
+        "fullName": "retailer",
+        "avatar": "https://lucidplot.com/wp-content/uploads/2023/04/retailer.jpg",
+        "phoneNumber": "+84886000772",
+        "address": "20 Tố Hữu, Đà Nẵng",
+        "role": "retailer",
+        "userId": "5d131a98-4649-4e86-8bce-de325544b5ab"
+      },
+      "qrCode": "https://storage.googleapis.com/supply-chain-9ea64.appspot.com/qrcode/orders/Order1.jpg?GoogleAccessId=firebase-adminsdk-hz2j8%40supply-chain-9ea64.iam.gserviceaccount.com&Expires=1717582301&Signature=ZnvubFASADI53u5OYVXizpDUIOzNG5ndsZtHjATceVj3TxztZ%2BNt8rwSPqeI6QTMGkZqwUZMdKEm%2B8Dk0WmFarUNXSfFCqfXO1uXpigT0XDXEUoXMMNXYxYyUzqv5OfqBlV5e4Z9s0P%2Fx9TebDc0CD8fTz8WZ683dEXJLnAazKpov3A5NntPHqYYTz%2BoxPbKr5y%2B0Q4%2B%2FWK9FAltkhVx0vuZz8uum0IrwsRXnDXzMn37hEy%2F6JJ9EHtJuphWfqo4qVp9OhBrs8x1nW7w4Gd0age4aAnLZ1A9OSCS%2BM3jvMVP8WSrcmFBjLQTw%2FgXBMLgApX3NJcjeqZOS07MHVMNOw%3D%3D",
+      "createDate": "2023-06-06 10:11:42.548+07:00",
+      "updateDate": "",
+      "finishDate": ""
+    }
+  ],
+  "message": "successfully",
+  "error": null
+}
